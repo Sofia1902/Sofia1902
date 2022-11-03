@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Sofia
-- 🏠︎ Currently living in Stockholm
+- 🏠︎ Currently living in Sweden
 - 🌱 I’m currently learning c++
