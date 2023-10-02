@@ -1,4 +1,4 @@
 
 - 🏠︎ Sweden
-- 📚 3rd year Computer engineering student
+- 📚 Computer engineering student
 - 🌱 Loading...
