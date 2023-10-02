@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sofia
-- 🏠︎ Currently living in Sweden
+
+- 🏠︎ Sweden
 - 📚 3rd year Computer engineering student
-- 🌱 I’m currently learning c++ and javascript
+- 🌱 Loading...
