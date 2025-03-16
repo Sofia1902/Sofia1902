@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Sofia, 
-a IT enthusiast and passionate about building scalable systems, solving real-world problems with code , IT security. and exploring neural networks. I love working on projects that challenge me to learn and grow.
+an IT enthusiast and passionate about building scalable systems, solving real-world problems with code , IT security. and exploring neural networks. I love working on projects that challenge me to learn and grow.
 
 #### 🛠️ Technologies & Tools
 -  **Currently learning**: 
