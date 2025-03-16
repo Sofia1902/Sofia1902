@@ -4,7 +4,6 @@ My passion? Build scalable systems, solving real-world problems with code, and e
 <br>
 
 #### 🛠️ Technologies & Tools
-
 -  **Currently learning**: 
 <br>
 
