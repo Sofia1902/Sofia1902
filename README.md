@@ -1,16 +1,14 @@
-## Hi there 👋
-I'm Sofia, 
-My passion? Build scalable systems, solving real-world problems with code, and exploring neural networks and IT security systems. I love working on projects that challenge me to learn and grow.
-<br>
+# Hi there! 👋  
 
-#### 🛠️ Technologies & Tools
--  **Currently learning**: 
-<br>
+I'm **Sofia**, a recent Bachelor's graduate in Computer Engineering with a passion for building scalable systems, solving real-world problems through code, and exploring neural networks and IT security. I'm always eager to take on new challenges that push me to learn and grow.  
 
-#### 📫 Get in Touch
-Let's connect! You can reach me via:
-- [LinkedIn](https://www.linkedin.com/in/safia-titrouq-95120a184/)
-<br>
+## 🛠️ Technologies & Areas of Interest  
+Currently expanding my skills in:  
+- Scalable system development  
+- IT security & network administration  
+- Neural networks & machine learning  
 
-🔒 **Private repositories available upon request. Contact me for access!**
-[LinkedIn](https://www.linkedin.com/in/safia-titrouq-95120a184/)
+## 📫 Let's Connect  
+I'm always open to discussions, collaborations, and new opportunities. Feel free to reach out via **[LinkedIn](https://www.linkedin.com/in/safia-titrouq-95120a184/)**.  
+
+🔒 Private repositories available upon request. Contact me for access!  
