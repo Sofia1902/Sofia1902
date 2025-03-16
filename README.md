@@ -4,11 +4,9 @@ My passion? Build scalable systems, solving real-world problems with code, and e
 <hr>
 #### 🛠️ Technologies & Tools
 -  **Currently learning**: 
-
+<hr>
 #### 📫 Get in Touch
 Let's connect! You can reach me via:
 - [LinkedIn](https://www.linkedin.com/in/safia-titrouq-95120a184/)
-
-
-
-🔒 **Private repositories available upon request. Contact me for access!**
+<hr>
+🔒 **Private repositories available upon request. Contact me for access!** - [LinkedIn](https://www.linkedin.com/in/safia-titrouq-95120a184/)
